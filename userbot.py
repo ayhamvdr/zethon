@@ -54,8 +54,8 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("mixthon")
-                await self.one.join_chat("V_64_V")
+                await self.one.join_chat("xethon")
+                await self.one.join_chat("xx7fx")
             except:
                 pass
             assistants.append(1)
@@ -83,8 +83,8 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("mixthon")
-                await self.two.join_chat("V_64_V")
+                await self.two.join_chat("xethon")
+                await self.two.join_chat("xx7fx")
             except:
                 pass
             assistants.append(2)
@@ -112,8 +112,8 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("mixthon")
-                await self.three.join_chat("V_64_V")
+                await self.three.join_chat("xethon")
+                await self.three.join_chat("xx7fx")
             except:
                 pass
             assistants.append(3)
@@ -141,8 +141,8 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("mixthon")
-                await self.four.join_chat("V_64_V")
+                await self.four.join_chat("xethon")
+                await self.four.join_chat("xx7fx")
             except:
                 pass
             assistants.append(4)
@@ -170,8 +170,8 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("mixthon")
-                await self.five.join_chat("V_64_V")
+                await self.five.join_chat("xethon")
+                await self.five.join_chat("xx7fx")
             except:
                 pass
             assistants.append(5)
