@@ -80,7 +80,7 @@ async def _(event):
     end = datetime.datetime.now()
     ms = (end - start).microseconds / 1000
     await event.edit(f'''
-**Xe - تشيكر اكس اي
+**Xe - تشيكر زد اكس
 ☆ VERSION : 3.3
 ☆ PING : `{ms}`
 ☆ DATE : `{m9zpi}`
