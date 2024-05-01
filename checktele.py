@@ -271,10 +271,10 @@ async def _(event):
                     await Ze(functions.channels.UpdateUsernameRequest(
                         channel=ch, username=username))
                     await event.client.send_message(event.chat_id, f'''
-ZE - تــشــيــكــر زد إي
+zx - تــشــيــكــر زد اكس
 ꪊ𝘴ꫀ𝘳  : @{username}        
-ᥴꫝ  / @Source_Ze 
-@ELHYBA
+ᥴꫝ  / @xethon 
+@xx7fxx
     ''')
                     break
                 except telethon.errors.rpcerrorlist.UsernameInvalidError:
@@ -331,10 +331,10 @@ async def _(event):
                         await Ze(functions.channels.UpdateUsernameRequest(
                             channel=ch, username=username))
                         await event.client.send_message(event.chat_id, f'''
-ZE - تــشــيــكــر زد إي
+ZX - تــشــيــكــر زد اكس
 ꪊ𝘴ꫀ𝘳  : @{username}        
-ᥴꫝ  / @Source_Ze
-@ELHYBA
+ᥴꫝ  / @xethon
+@xx7fxx
 
     ''')
                         break
@@ -366,10 +366,10 @@ ZE - تــشــيــكــر زد إي
                 await Ze(functions.channels.UpdateUsernameRequest(
                     channel=ch, username=username))
                 await event.client.send_message(event.chat_id, f'''
-ZE - تــشــيــكــر زد إي
+ZX- تــشــيــكــر زد اكس
 ꪊ𝘴ꫀ𝘳 : @{username}        
-ᥴꫝ  / @Source_Ze
-@ELHYBA
+ᥴꫝ  / @xethon
+@xx7fxx
     ''')
             except telethon.errors.rpcerrorlist.UsernameInvalidError:
                 await event.client.send_message(event.chat_id, f"مبند `{username}` ❌❌")
